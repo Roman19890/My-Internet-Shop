@@ -7,6 +7,6 @@ namespace MyInternetShop
 {
     public static class Storage
     {
-        public const string EPW = "Rom@127961Rambler";
+        public const string EPW = " ";
     }
 }
