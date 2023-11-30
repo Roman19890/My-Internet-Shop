@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My Internet Shop</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/mystyles.css" />
+    <link rel="stylesheet" href="~/css/media.css" />
+    <link rel="stylesheet" href="~/css/font-awesome.css">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+</head>
+<body>
+    <header class="sticky-top">
+        <nav class="navbar navbar-expand navbar-light bg-white border-bottom box-shadow flex-wrap">
+            <div class="logo"><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">My Internet Shop</a></div>
+            <ul class="navbar-nav flex-grow-1 link-block f20">
+                <li class="nav-item">
+                    <a class="nav-link font-weight-bold home" asp-area="" asp-controller="Home" asp-action="Index"><i class="fa fa-home" title="Домашняя страница"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link font-weight-bold" asp-area="" asp-controller="Home" asp-action="Contacts">Контакты</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link font-weight-bold" asp-area="" asp-controller="Home" asp-action="Delivery">Доставка и оплата</a>
+                </li>
+                @if (User.IsInRole("admin"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link font-weight-bold" asp-area="" asp-controller="Admin" asp-action="Index">Админка</a>
+                    </li>
+                }
+                <li class="nav-item">
+                    <form asp-action="Search" asp-controller="Home" method="get" class="nav-link search-form">
+                        <div class="adapt row flex-nowrap">
+                            <input type="text" id="searchForm" placeholder="Поиск" class="search-input" name="SearchString" />
+                            <button type="submit" class="btn btn-success search-button"><i class="fa fa-search"></i></button>
+                        </div>
+                    </form>
+                </li>
+            </ul>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <ul class="navbar-nav d-flex flex-nowrap ml-2">
+                    <li class="login-enter">
+                        <span class="user">Пользователь:&nbsp;&nbsp;</span>
+                        @if (ViewBag.UserName == null)
+                        {
+                            <a asp-controller="Users" asp-action="Edit" asp-route-name="@User.Identity.Name" class="user-name-link" data-toggle="tooltip" data-placement="left" title="Личный кабинет">@User.Identity.Name </a>
+                        }
+                        else
+                        {
+                            <a asp-controller="Users" asp-action="Edit" asp-route-name="@ViewBag.UserName" class="user-name-link">@ViewBag.UserName</a>
+                        }
+                    </li>
+                    <li>
+                        <a asp-action="ShoppingCart" asp-controller="Home" asp-route-UserName="@User.Identity.Name" class="cart-image"><img src="~/Images/shopping_cart.png" alt="Корзина" title="Корзина" height="20" width="20" /><sup class="jquery-sup" id="productQuantity">0</sup></a>
+                    </li>
+                    <li class="login-exit">
+                        <form method="post" asp-controller="Account" asp-action="Logout">
+                            <input type="hidden" name="url" value="@($"{Context.Request.Scheme}://{Context.Request.Host}{Context.Request.Path}{Context.Request.QueryString}")" />
+                            <input type="submit" value="Выход" class="btn btn-warning" />
+                        </form>
+                    </li>
+                </ul>
+                <script>
+                    $.ajax({
+                        url: `@Context.Request.Scheme://@Context.Request.Host/Home/GetCartProductsCount`,
+                        dataType: "json",
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            let sup = document.getElementById("productQuantity");
+
+                            if (data > 0) {
+                                sup.innerText = data
+                                sup.style.display = "inline";
+                            }
+                        },
+                        error: function (data) {
+                            alert("Ошибка при получении данных корзины");
+                            console.log(data);
+                        }
+                    });
+                </script>
+            }
+            else
+            {
+                <ul class="login-register">
+                    <li class="nav-item">
+                        <a class="login-links" asp-controller="Account" asp-action="Login">Вход</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="login-links" asp-controller="Account" asp-action="Register">Регистрация</a>
+                    </li>
+                </ul>
+            }
+        </nav>
+    </header>
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+                &copy; 2022 - My Internet Shop - <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Privacy">Политика конфиденциальности</a>
+        </div>
+    </footer>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

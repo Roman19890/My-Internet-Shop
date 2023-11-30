@@ -1,0 +1,157 @@
+﻿@media (min-width: 1671px) {
+
+    .cor-img {
+        height: 650px;
+    }
+}
+
+@media (max-width: 1262px) {
+
+    .back-link-category-selection {
+        top: 240px;
+    }
+
+    .input-data {
+        max-width: 100%;
+    }
+
+    .index-img {
+        width: 100%;
+    }
+}
+
+/*@media screen and (max-width: 890px) {*/
+    /*.back-link-add-product {
+        position: relative;
+    }*/
+
+/*}*/
+
+@media (max-width: 1060px) {
+
+    .login-register {
+        justify-content: center;
+    }
+
+    .cor-img {
+        height: 300px;
+    }
+}
+
+
+    @media (max-width: 785px) {
+
+        /*Index page*/
+        .search-input {
+            height: 33px;
+        }
+
+        .search-form {
+            bottom: 0;
+        }
+
+        .back-link-category-selection {
+            top: 220px;
+        }
+
+        .link-block {
+            margin-left: 0;
+            font-size: 16px;
+        }
+
+        html {
+            font-size: 14px;
+        }
+
+        .cor-img {
+            height: 250px;
+        }
+
+        /*SelectCategory*/
+        .good-cards {
+            justify-content: center;
+        }
+    }
+
+    @media (max-width: 655px) {
+        /*Index page*/
+        .adapt {
+            position: relative;
+            right: 7px;
+        }
+
+        .ad-place {
+            width: 100%;
+        }
+
+        .categories-list {
+            max-width: 100%;
+        }
+
+        .navbar-nav {
+            display: block;
+        }
+
+        .navbar-expand {
+            flex-flow: column nowrap;
+        }
+
+        .page-holder {
+            flex-direction: column;
+        }
+
+        .news-block {
+            flex-direction: column;
+        }
+
+        .sticky-top {
+            position: relative;
+        }
+
+        .login-enter {
+            font-size: 15px;
+        }
+
+        .search-form {
+            margin-bottom: 10px;
+        }
+
+        .footer-link {
+            display: block;
+        }
+
+        .footer {
+            line-height: 35px;
+            text-align: center;
+        }
+
+        /*SelectCategory*/
+
+        .categories-list-1 {
+            margin-bottom: 20px
+        }
+
+        /*Admin Page*/
+        .admin-page-menu {
+            flex-direction: column;
+        }
+
+        .table-goods {
+            font-size: 18px;
+        }
+    }
+
+    @media (max-width: 320px) {
+
+        .cor-img {
+            height: 200px;
+        }
+
+        .product-block {
+            width: 100%;
+        }
+
+        .product-block-img > img {
+            width: 100%;
+        }
+    }

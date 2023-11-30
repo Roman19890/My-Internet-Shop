@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+@model MyInternetShop.ViewModels.LoginViewModel
+
+<h2 class="text-center mw-300 bg-primary">Вход в учетную запись</h2>
+<div class="container mw-300">
+    <div class="d-flex flex-column align-items-center">
+        <form method="post" asp-controller="Account" asp-action="Login"
+              asp-route-returnUrl="@Model.ReturnUrl" class="col-3 col-md-3 mw-280">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label><br />
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label><br />
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="RememberMe" type="checkbox" />
+                <label asp-for="RememberMe"></label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Войти" class="btn btn-primary login-btn" />
+            </div>
+        </form>
+        <a asp-action="ForgotPassword">Забыли пароль?</a>
+    </div>
+</div>
+@await Html.PartialAsync("_ValidationScriptsPartial")

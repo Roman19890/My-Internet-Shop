@@ -1,0 +1,126 @@
+﻿@model IEnumerable<MyInternetShop.Models.Product>
+
+@{
+    ViewData["Title"] = "Админка";
+    List<Category> categories = ViewBag.Categories;
+}
+
+<h1 class="bg-primary text-center admin-page-header">Admin's Page</h1>
+<div class="d-flex justify-content-around align-items-center admin-page-menu">
+    <a class="adm-link" asp-action="Category">Управление категориями</a>
+    <a class="adm-link" asp-action="AddProduct">Добавить товар</a>
+    <div class="dropdown show">
+        <a class="category-btn dropdown-toggle adm-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Выбрать категорию
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            @foreach (Category category in ViewBag.Categories)
+            {
+                <a class="dropdown-item"  asp-controller="Admin" asp-action="SelectCategory" asp-route-id="@category.Id">@category.CategoryName</a>
+            }
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" asp-action="Index">Все товары</a>
+        </div>
+    </div>
+    <a class="adm-link" asp-action="Orders">Заказы<sup class="jquery-sup" id="newOrdersQuantity">0</sup></a>
+    <a class="adm-link" asp-controller="Users" asp-action="Index">Управление пользователями</a>
+</div>
+<script>
+                    $.ajax({
+                        url: `@Context.Request.Scheme://@Context.Request.Host/Admin/GetNewOrdersCount`,
+                        dataType: "json",
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            console.log(data);
+                            let sup = document.getElementById("newOrdersQuantity");
+
+                            if (data > 0) {
+                                sup.innerText = data
+                                sup.style.display = "inline";
+                            }
+                        },
+                        error: function (data) {
+                            alert("Ошибка при получении данных о заказах");
+                            console.log(data);
+                        }
+                    });
+</script>
+<h2 class="bg-warning text-center admin-page-header">Список товаров</h2>
+@if (ViewBag.CategoryName != null)
+{
+    <h2 class="bg-success text-center admin-page-header">@ViewBag.CategoryName</h2>
+}
+
+else
+{
+    <h2 class="bg-success text-center admin-page-header">Все товары</h2>
+}
+
+<div class="d-flex justify-content-center text-center admin-page-table-container">
+    <table class="table table-bordered table-responsive-md table-goods">
+        <thead>
+            <tr>
+                <th class="text-grey">
+                    Наименование
+                </th>
+                <th class="text-grey">
+                    Категория
+                </th>
+                <th class="text-grey">
+                    Цена
+                </th>
+                <th class="text-grey">
+                    Количество
+                </th>
+                <th class="text-grey">Действия</th>
+            </tr>
+        </thead>
+        <tbody class="font-weight-bold">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="Pr-Name-Td">
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @categories.First(c => c.Id == item.CategoryId).CategoryName
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        <a asp-action="EditProduct" asp-route-returnurl="@($"{Context.Request.Scheme}://{Context.Request.Host}{Context.Request.Path}{Context.Request.QueryString}")" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Редактировать</a> 
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Подробнее</a> 
+                        <form action="Admin/DeleteProduct" method="post" class="delete-link">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <input type="submit" value="Удалить" class="btn btn-sm btn-danger" />
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Удаление товара</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверенны, что хотите удалить данный товар?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Отменить</button>
+                <button type="button" class="btn btn-danger" onclick="sbm()">Удалить</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/ConfirmDelete.js"></script>

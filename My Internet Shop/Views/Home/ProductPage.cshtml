@@ -1,0 +1,32 @@
+﻿@model MyInternetShop.Models.Product
+
+<h1 class="text-center bg-primary">@Model.ProductName</h1>
+<a class="adm-link ml-4" href="@ViewBag.back">< Назад</a>
+<div class="d-flex">
+    @if (ViewBag.ImageDataUrl != null)
+    {
+    <div class="product-img-block mt-1">
+        <img width="500" height="500" src="@ViewBag.ImageDataUrl" />
+    </div>
+    }
+
+    else
+    {
+        <div class="img-block mt-1">
+            <h1 class="text-center display-4">No Image</h1>
+        </div>
+    }
+<div class="flex-grow-1">
+    <h1 class="text-center mt-0 mb-2">Цена: @Model.Price</h1>
+    <h1 class="text-center text-darkblue">Описание и характеристики:</h1>
+    <pre class="product-description">@Model.Description</pre>
+    <h4 class="text-center">В наличии: @Model.Quantity</h4>
+    <form method="post" class="mt-3" asp-action="AddToCart" data-ajax="true" data-ajax-method="post" data-ajax-success="OnSuccess" data-ajax-failure="OnFailure">
+        <input type="hidden" id="ProductId" name="ProductId" value="@Model.Id" />
+        <input type="hidden" id="userName" name="UserName" value="@User.Identity.Name" />
+        <button type="submit" class="btn btn-danger center add-to-cart-button">Добавить в корзину</button>
+    </form>
+</div>
+    </div>
+    <script src="~/lib/jquery.unobtrusive-ajax/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/js/AddToCart.js"></script>

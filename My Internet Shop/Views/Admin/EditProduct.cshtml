@@ -1,0 +1,67 @@
+﻿@model MyInternetShop.Models.Product
+@{
+    ViewBag.Title = "Редактирование товара";
+
+}
+<h2 class="text-center mw-360 bg-warning">Редактирование товара</h2>
+<a class="back-link-add-product" href="@ViewBag.back">< Назад</a>
+<div class="container mw-360">
+    <div class="d-xl-flex justify-content-start">
+        <form enctype="multipart/form-data" asp-action="EditProduct" asp-controller="Admin" method="post" class="col-12 col-sm-12 d-xl-flex justify-content-around">
+            <div class="mr-3 input-data">
+                @*<div asp-validation-summary="All" class="text-danger"></div>*@
+                <div class="form-group">
+                    <label asp-for="ProductName" class="control-label font-weight-bolder"></label>
+                    <input type="text" asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryId" class="control-label font-weight-bolder"></label>
+                    <select asp-for="CategoryId" class="form-control">
+                        @foreach (var item in ViewBag.Categories)
+                        {
+                            <option id="@item.Id" value="@item.Id">@item.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label font-weight-bolder"></label>
+                    <input type="text" asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Quantity" class="control-label font-weight-bolder"></label>
+                    <input type="number" asp-for="Quantity" class="form-control" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+                <label class="control-label font-weight-bolder">Изображение:</label>
+                @if (ViewBag.ImageTitle != null)
+                {
+                    <span class="text-darkblue">@ViewBag.ImageTitle</span>
+                }
+
+                else
+                {
+                    <span class="text-darkblue">Нет изображения</span>
+                }
+                <input class="image-dialog" type="file" id="file1" name="file1" /><br /><br />
+                <label for="removeImage" class="control-label font-weight-bolder">Удалить текущее изоражение</label>
+                <input type="checkbox" name="ToDelete" id="removeImage" value="true" />
+            </div>
+            <div>
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label font-weight-bolder"></label>
+                    <textarea asp-for="Description" rows="12" cols="90" class="form-control"></textarea>
+                </div>
+                <div class="form-group text-sm-right">
+                    <input type="submit" value="Изменить" class="btn btn-warning" />
+                    <input type="hidden" value="@Model.ImageId" name="ImageId" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+       document.getElementById(@Model.CategoryId).selected = "true";
+</script>
+@*@await Html.PartialAsync("_ValidationScriptsPartial")*@

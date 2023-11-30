@@ -1,0 +1,120 @@
+﻿@model IEnumerable<MyInternetShop.Models.Order>
+@using MyInternetShop.Models;
+
+@{
+    ViewData["Title"] = "Заказы";
+
+    int count = 0;
+    foreach (Order order in Model)
+    {
+        if (order.Status == Status.New)
+            count++;
+    }
+}
+
+<h1 class="text-center bg-primary admin-page-header">Заказы</h1>
+<a class="back-link-orders" asp-action="Index">< Назад</a>
+<div class="d-flex justify-content-around align-items-center">
+    <a class="adm-link" asp-action="Orders">Все заказы</a>
+    @if (count > 0)
+    {
+        <a class="adm-link" asp-action="NewOrders">Новые<sup class="orders-page-sup">@count</sup></a>
+    }
+
+    else
+    {
+        <a class="adm-link" asp-action="NewOrders">Новые</a>
+    }
+    <a class="adm-link" asp-action="ConfirmedOrders">Потвержденные</a>
+    <a class="adm-link" asp-action="CancelledOrders">Отмененные</a>
+</div>
+<h2 class="text-center bg-warning admin-page-header">@ViewBag.tab</h2>
+@foreach (Order order in Model)
+ {
+    @if (order.Status != Status.New)
+    {
+    <table class="table table-responsive-sm table-bordered text-center category-table">
+        <thead class="text-grey">
+            <tr>
+                <th>ID</th>
+                <th>Пользователь</th>
+                <th>Дата</th>
+                <th>Стоимость</th>
+                <th>Статус</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="font-weight-bold">
+                <td>@Html.DisplayFor(modelItem => order.Id)</td>
+                <td>@Html.DisplayFor(modelItem => order.User.UserName)</td>
+                <td>@Html.DisplayFor(modelItem => order.Date)</td>
+                <td>@Html.DisplayFor(modelItem => order.Cost)</td>
+                @{if (order.Status == Status.Waiting)
+                    {
+                        <td class="text-warning" id="@order.Id.ToString()">@Html.DisplayFor(modelItem => order.Status)</td>
+                    }
+                    else if (order.Status == Status.Confirmed)
+                    {
+                        <td id="@order.Id.ToString()" class="text-success">@Html.DisplayFor(modelItem => order.Status)</td>
+                    }
+                    else if (order.Status == Status.Cancelled)
+                    {
+                        <td id="@order.Id.ToString()" class="text-danger">@Html.DisplayFor(modelItem => order.Status)</td>
+                    }
+                    else if (order.Status == Status.CancelledByUser)
+                    {
+                        <td id="@order.Id.ToString()" class="text-danger">@Html.DisplayFor(modelItem => order.Status)</td>
+                    }
+                    @*else if (order.Status == Status.New)
+                    {
+                        <td id="@order.Id.ToString()" class="text-red">@Html.DisplayFor(modelItem => order.Status)</td>
+                    }*@
+                    else
+                    {
+                        {
+                            <td class="text-darkblue" id="@order.Id.ToString()">@Html.DisplayFor(modelItem => order.Status)</td>
+                        }
+                    }
+                }
+            </tr>
+        </tbody>
+    </table>
+    <div class="container">
+        <ol class="oredered-products-list">
+            @foreach (var item in order.OrderEntities)
+            {
+                <li>&nbsp;@item.Product.ProductName&nbsp;&nbsp;&nbsp;Цена:&nbsp;@item.Product.Price&nbsp;&nbsp; Количество:&nbsp;@item.Count</li>
+            }
+        </ol>
+        <div class="d-flex justify-content-center">
+            <form method="post" asp-action="CancelOrder" data-ajax="true" data-ajax-method="post" data-ajax-success="CancelSuccess" data-ajax-failure="Failure">
+                <input type="hidden" name="OrderId" value="@order.Id" />
+                @{ if (order.Status == Status.Cancelled || order.Status == Status.CancelledByUser)
+                    {
+                        <button type="submit" id="cancelButton" disabled class="btn btn-danger center confirm-order-buttons">Отменить</button>
+                    }
+                    else
+                    {
+                        <button type="submit" id="cancelButton" class="btn btn-danger center confirm-order-buttons">Отменить</button>
+                    }
+                }
+            </form>
+            <form method="post" asp-action="ConfirmOrder" data-ajax="true" data-ajax-method="post" data-ajax-success="ConfirmSuccess" data-ajax-failure="Failure">
+                <input type="hidden" name="OrderId" value="@order.Id" />
+                @{ if (order.Status == Status.Confirmed || order.Status == Status.CancelledByUser)
+                    {
+                        <button type="submit" id="confirmButton" disabled class="btn btn-success center confirm-order-buttons">Потвердить</button>
+                    }
+                    else
+                    {
+                        <button type="submit" id="confirmButton" class="btn btn-success center confirm-order-buttons">Потвердить</button>
+                    }
+                }
+            </form>
+        </div>
+    </div>
+    <hr />
+     }
+ }
+<script src="~/lib/jquery.unobtrusive-ajax/jquery.unobtrusive-ajax.min.js"></script>
+<script src="~/js/Orders.js"></script>

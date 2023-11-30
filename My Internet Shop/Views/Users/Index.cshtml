@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MyInternetShop.Models.User>
+@{
+    ViewBag.Title = "Список пользователей";
+}
+
+<h1 class="bg-primary text-center admin-page-header">Список пользователей</h1>
+<div class="d-flex h-40 align-items-center justify-content-start">
+    <a class="adm-link ml-4" asp-controller="Admin" asp-action="Index">< Назад</a>
+</div>
+<table class="table table-bordered table-responsive-sm">
+    <thead class="text-center text-grey">
+        <tr><th>Email</th><th>Имя пользователя</th><th>Год</th><th>Действия</th></tr>
+    </thead>
+    @foreach (var user in Model)
+    {
+        <tr class="font-weight-bold">
+            <td>@user.Email</td>
+            <td>@user.UserName</td>
+            <td class="text-center">@user.Year</td>
+            <td class="text-center">
+                    <a class="btn btn-sm btn-primary" asp-controller="Roles" asp-action="Edit" asp-route-userid="@user.Id">Права доступа</a>
+                    @*<a class="btn btn-sm btn-primary" asp-action="ChangePassword" asp-route-id="@user.Id">Сменить пароль</a>*@
+            <form action="Users/Delete" method="post" class="delete-link">
+                <input type="hidden" name="id" value="@user.Id" />
+                <input type="submit" value="Удалить" class="btn btn-sm btn-danger" />
+            </form>
+            </td>
+        </tr>
+    }
+</table>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Удаление пользователя</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Вы уверенны, что хотите удалить данного пользователя?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Отменить</button>
+                <button type="button" class="btn btn-danger" onclick="sbm()">Удалить</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/ConfirmDelete.js"></script>

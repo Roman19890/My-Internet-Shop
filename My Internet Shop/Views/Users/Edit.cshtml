@@ -1,0 +1,32 @@
+﻿@model MyInternetShop.ViewModels.EditUserViewModel
+@{
+    ViewBag.Title = "Редактирование пользователя";
+}
+<div class="d-flex user-edit-links-cont h-40 align-items-center justify-content-between">
+    <a class="adm-link" asp-controller="Home" asp-action="Index">< Назад</a>
+    <a class="adm-link user-orders-link" asp-controller="Users" asp-action="Orders">Мои заказы</a>
+    <a class="adm-link" asp-action="ChangePassword" asp-route-id="@Model.Id">Сменить пароль</a>
+</div>
+<h2>Изменение данных</h2>
+<form asp-action="Edit" asp-controller="Users">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <input type="hidden" asp-for="Id" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input type="text" asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="UserName" class="control-label"></label>
+        <input type="text" asp-for="UserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Year" class="control-label">Год рождения</label>
+        <input type="number" asp-for="Year" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Сохранить" class="btn btn-outline-secondary" />
+    </div>
+</form>
+@await Html.PartialAsync("_ValidationScriptsPartial")

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<MyInternetShop.Models.Order>
+
+@{
+    ViewData["Title"] = "Заказы";
+}
+    <h1 class="text-center">Мои заказы</h1>
+        <a class="adm-link orders-back-link" asp-action="Edit" asp-route-name="@User.Identity.Name">< Назад</a>
+    @foreach (Order order in Model)
+    {
+        <h2 class="text-center mt-5">Заказ № @order.Id</h2>
+        <table class="table table-responsive-sm text-center category-table">
+            <thead class="text-grey">
+                <tr>
+                    <th>Дата</th>
+                    <th>Стоимость</th>
+                    <th>Статус</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="font-weight-bold">
+                    <td>@Html.DisplayFor(modelItem => order.Date)</td>
+                    <td>@Html.DisplayFor(modelItem => order.Cost)</td>
+                    @{if (order.Status == Status.Waiting)
+                        {
+                            <td class="text-warning" id="@order.Id.ToString()">@Html.DisplayFor(modelItem => order.Status)</td>
+                        }
+                        else if (order.Status == Status.Confirmed)
+                        {
+                            <td id="@order.Id.ToString()" class="text-success">@Html.DisplayFor(modelItem => order.Status)</td>
+                        }
+                        else if (order.Status == Status.Cancelled)
+                        {
+                            <td id="@order.Id.ToString()" class="text-danger">@Html.DisplayFor(modelItem => order.Status)</td>
+                        }
+                        else if (order.Status == Status.CancelledByUser)
+                        {
+                            <td id="@order.Id.ToString()" class="text-danger">@Html.DisplayFor(modelItem => order.Status)</td>
+                        }
+                        else if (order.Status == Status.New)
+                        {
+                            <td id="@order.Id.ToString()" class="text-warning">@Status.Waiting</td>
+                        }
+                        else
+                        {
+                            {
+                                <td class="text-darkblue" id="@order.Id.ToString()">@Html.DisplayFor(modelItem => order.Status)</td>
+                            }
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <div class="container">
+            <ol class="oredered-products-list">
+                @foreach (var item in order.OrderEntities)
+                {
+                    <li>&nbsp;@item.Product.ProductName&nbsp;&nbsp;&nbsp;Цена:&nbsp;@item.Product.Price&nbsp;&nbsp; Количество:&nbsp;@item.Count</li>
+                }
+            </ol>
+            <div id="button" class="d-flex justify-content-center">
+                @{ if (order.Status == Status.Waiting | order.Status == Status.New)
+                    {
+                        <form method="post" asp-action="CancelOrder" data-ajax="true" data-ajax-method="post" data-ajax-success="CancelSuccess" data-ajax-failure="Failure">
+                            <input type="hidden" name="OrderId" value="@order.Id" />
+                            <button type="submit" class="btn btn-lg btn-danger user-orders-button">Отменить</button>
+                        </form>
+                    }
+                    else if (order.Status == Status.CancelledByUser)
+                    {
+                        <form method="post" asp-action="ResumeOrder" data-ajax="true" data-ajax-method="post" data-ajax-success="ResumeSuccess" data-ajax-failure="Failure">
+                            <input type="hidden" name="OrderId" value="@order.Id" />
+                            <button type="submit" class=" btn btn-lg btn-success user-orders-button">Возобновить</button>
+                        </form>
+                    }
+                }
+            </div>
+        </div>
+        <script src="~/lib/jquery.unobtrusive-ajax/jquery.unobtrusive-ajax.min.js"></script>
+        <script src="~/js/OrdersUser.js"></script>
+    }

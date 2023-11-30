@@ -1,0 +1,57 @@
+﻿@model MyInternetShop.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center bg-primary admin-page-header">Подробная информация</h1>
+<div class="d-flex justify-content-between container h-40 align-items-center">
+    <a class="adm-link" asp-action="Index">< Назад</a>
+    <a class="adm-link" asp-action="EditProduct" asp-route-returnurl ="@($"{Context.Request.Scheme}://{Context.Request.Host}{Context.Request.Path}{Context.Request.QueryString}")" asp-route-id="@Model.Id">Редактировать</a>
+</div>
+
+<div class="DetailedView">
+    <h2 class="bg-warning text-center">@Html.DisplayFor(model => model.ProductName)</h2>
+    <div class="img-container">
+        @if (ViewBag.ImageDataUrl != null)
+        {
+            <img src="@ViewBag.ImageDataUrl" height="400" width="400" />
+        }
+        else
+        {
+            <h1 class="text-center">No Image</h1>
+        }
+    </div>
+        <dl class="d-xl-flex flex-wrap fs-18">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Id)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Quantity)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Quantity)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-sm-10">
+                <pre class="description text-darkblue">@Html.DisplayFor(model => model.Description)</pre>
+            </dd>
+        </dl>
+ </div>

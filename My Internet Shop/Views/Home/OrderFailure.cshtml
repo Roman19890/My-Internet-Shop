@@ -1,0 +1,9 @@
+﻿<div class="head-image"></div>
+<h1 class="text-center display-4">К сожалению данных товаров уже нет в достаточном количестве:</h1>
+
+@foreach (Product p in ViewBag.Products)
+{
+    <h3 class="text-center text-red font-italic">@p.ProductName</h3>
+}
+
+<a asp-action="Index" class="text-center center order-confirmed-link">Перейти на главную страницу</a>

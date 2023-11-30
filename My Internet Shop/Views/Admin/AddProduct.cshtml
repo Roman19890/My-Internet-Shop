@@ -1,0 +1,51 @@
+﻿@model MyInternetShop.ViewModels.AddProductViewModel
+@{
+    ViewBag.Title = "Добавление товара";
+}
+<h2 class="text-center mw-360 bg-primary">Добавление товара</h2>
+<a class="back-link-add-product" asp-action="Index">< Назад</a>
+<div class="container mw-360">
+    <div class="d-flex justify-content-start">
+        <form enctype="multipart/form-data" asp-action="AddProduct" asp-controller="Admin" method="post" class="col-12 col-sm-12 d-xl-flex justify-content-around">
+            <div class="mr-3">
+                @*<div asp-validation-summary="All" class="text-danger"></div>*@
+                <div class="form-group">
+                    <label asp-for="ProductName" class="control-label font-weight-bolder"></label>
+                    <input type="text" asp-for="ProductName" class="form-control" />
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryId" class="control-label font-weight-bolder"></label>
+                    <select asp-for="CategoryId" class="form-control">
+                        @foreach (var item in ViewBag.Categories)
+                        {
+                            <option value="@item.Id">@item.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label font-weight-bolder"></label>
+                    <input type="text" asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Quantity" class="control-label font-weight-bolder"></label>
+                    <input type="number" asp-for="Quantity" class="form-control" />
+                    <span asp-validation-for="Quantity" class="text-danger"></span>
+                </div>
+                <label class="control-label font-weight-bolder">Изображение</label><br />
+                <input type="file" id="file1" name="file1" />
+            </div>
+            <div>
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label font-weight-bolder"></label>
+                    <textarea asp-for="Description" rows="12" cols="90" class="form-control"></textarea>
+                </div>
+                <div class="form-group text-sm-right">
+                    <input type="submit" value="Добавить" class="btn btn-primary" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+@*@await Html.PartialAsync("_ValidationScriptsPartial")*@

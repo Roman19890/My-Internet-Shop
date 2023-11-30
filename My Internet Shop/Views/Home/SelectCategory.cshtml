@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MyInternetShop.ViewModels.SelectProductViewModel>
+
+<div class="head-image"></div>
+<h1 class="text-center bg-warning mt-4 w-100 mb-4">@ViewBag.CategoryName</h1>
+<a class="back-link-category-selection" asp-action="Index">< Назад на главную</a>
+<div class="page-holder">
+    <div class="list-group categories-list-1">
+        <p class="list-group-item list-group-item-action active text-center">
+            Каталог товаров
+        </p>
+        @foreach (Category category in ViewBag.Categories)
+        {
+            if (category.CategoryName != "No Category")
+            {
+                <a asp-action="SelectCategory" asp-route-id="@category.Id" class="list-group-item list-group-item-action category-selection-link">@category.CategoryName</a>
+            }
+        }
+    </div>
+    <div class="flex-grow-1 d-flex good-cards flex-wrap">
+        @foreach (var product in Model)
+        {
+            <a asp-action="ProductPage" asp-route-id ="@product.Id" asp-route-returnurl ="@($"{Context.Request.Scheme}://{Context.Request.Host}{Context.Request.Path}{Context.Request.QueryString}")" class="product-block">
+                <div class="product-block-img">
+                    @if (product.ImageDataUrl != null)
+                    {
+                        <img src="@product.ImageDataUrl" height="300" width="300" />
+                    }
+
+                    else
+                    {
+                        <h2 class="text-center">No Image</h2>
+                    }
+                </div>
+                <div class="product-name">
+                    <h4 class="mb-0">@product.ProductName</h4>
+                </div>
+            </a>
+        }
+    </div>
+</div>

@@ -1,0 +1,764 @@
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.Development.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Views\Properties\launchSettings.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.exe
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.deps.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.dev.json
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ref\My Internet Shop.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.AssemblyReference.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfoInputs.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfo.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CoreCompileInputs.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.Manifest.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.xml
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\scopedcss\bundle\My Internet Shop.styles.css
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.input.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.output.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorCoreGenerate.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.Views.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CopyComplete
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\ref\My Internet Shop.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.pdb
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.genruntimeconfig.cache
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Category.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddCategory.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddProduct.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Humanizer.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ImageCheck.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\RetrieveImage.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\SelectCategory.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ProductPage.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ShoppingCart.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Orders.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Orders.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MailKit.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MimeKit.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\OrderFailure.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Contacts.cshtml.g.cs
+D:\Work_Folder\VisualStudioProjects\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Delivery.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.Development.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Views\Properties\launchSettings.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.StaticWebAssets.xml
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.exe
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.deps.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.dev.json
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Humanizer.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MailKit.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MimeKit.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Formats.Asn1.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.AssemblyReference.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfoInputs.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfo.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CoreCompileInputs.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\scopedcss\bundle\My Internet Shop.styles.css
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.Manifest.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.input.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.output.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorCoreGenerate.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddCategory.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddProduct.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Category.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditCategory.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditProduct.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Orders.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Contacts.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Delivery.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ImageCheck.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\OrderFailure.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ProductPage.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\RetrieveImage.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\SelectCategory.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ShoppingCart.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Orders.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cs
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.Views.pdb
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CopyComplete
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.dll
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\refint\My Internet Shop.dll
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.pdb
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.genruntimeconfig.cache
+E:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\ref\My Internet Shop.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.Development.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Views\Properties\launchSettings.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.exe
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.deps.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.dev.json
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ref\My Internet Shop.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Humanizer.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MailKit.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MimeKit.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Formats.Asn1.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.AssemblyReference.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfoInputs.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfo.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CoreCompileInputs.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.MvcApplicationPartsAssemblyInfo.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.Manifest.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.xml
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\scopedcss\bundle\My Internet Shop.styles.css
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.input.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.output.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorCoreGenerate.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddCategory.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddProduct.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Category.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditCategory.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditProduct.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Orders.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Contacts.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Delivery.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ImageCheck.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\OrderFailure.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ProductPage.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\RetrieveImage.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\SelectCategory.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ShoppingCart.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Orders.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cache
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cs
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.Views.pdb
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CopyComplete
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.dll
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\ref\My Internet Shop.dll
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.pdb
+F:\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.genruntimeconfig.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\appsettings.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Views\Properties\launchSettings.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.exe
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.deps.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.runtimeconfig.dev.json
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ref\My Internet Shop.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\My Internet Shop.Views.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MailKit.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\MimeKit.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.AssemblyReference.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfoInputs.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.AssemblyInfo.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CoreCompileInputs.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorAssemblyInfo.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.Manifest.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\staticwebassets\My Internet Shop.StaticWebAssets.xml
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\scopedcss\bundle\My Internet Shop.styles.css
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.input.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.TagHelpers.output.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorCoreGenerate.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddCategory.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Category.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Admin\Orders.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Delivery.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ImageCheck.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\OrderFailure.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ProductPage.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\RetrieveImage.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\SelectCategory.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Home\ShoppingCart.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Roles\Edit.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\ChangePassword.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\Users\Orders.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cache
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.RazorTargetAssemblyInfo.cs
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.Views.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.csproj.CopyComplete
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\ref\My Internet Shop.dll
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.pdb
+C:\Users\romaX\OneDrive\Рабочий стол\Diploma Project\My Internet Shop\My Internet Shop\obj\Debug\net5.0\My Internet Shop.genruntimeconfig.cache
